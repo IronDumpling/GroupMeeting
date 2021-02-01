@@ -1,7 +1,9 @@
 #include <iostream>
+using namespace std;
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    std::cout << "NO, World" << std::endl;
+    cout << "Chuyue Zhang" << endl;
     return 0;
 }
 //add new whatever
